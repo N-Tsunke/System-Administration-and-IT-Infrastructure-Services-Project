@@ -2,14 +2,9 @@
 
 **Practical Task:** Basic Server Setup 
 
-# IIS Web Server Deployment – Windows Environment
+**Key Concepts:** Servers,virtualization,cloud services (DNS,DHCP) 
 
-![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?logo=windows)
-![IIS](https://img.shields.io/badge/Web%20Server-IIS-informational)
-![HTTP](https://img.shields.io/badge/Protocol-HTTP%20%3A80-green)
-![Status](https://img.shields.io/badge/Server-Operational-brightgreen)
-![Project](https://img.shields.io/badge/Project-System%20Administration-orange)
-![License](https://img.shields.io/badge/License-Educational-lightgrey)
+# IIS Web Server Deployment – Windows Environment
 
 ---
 
