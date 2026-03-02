@@ -1,8 +1,6 @@
 # System-Administration-and-IT-Infrastructure-Services-Project
 
 # Practical Task: Basic Server Setup – Windows IIS
-  
-**Task:** Set up a simple local server using Windows IIS, provide screenshots, and explain configured services.
 
 **Key Concepts:** Servers,virtualization,cloud services (DNS,DHCP)  
 
