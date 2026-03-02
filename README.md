@@ -15,7 +15,6 @@
 **Course:** System Administration and IT Infrastructure Services  
 **Practical Task:** Basic Server Setup  
 **Student:** Nthabiseng Tsunke  
-**Date:** (Insert Submission Date)
 
 ---
 
