@@ -10,7 +10,7 @@ This project demonstrates the setup of a local **Windows IIS (Internet Informati
 
 ---
 
-### Step 1 IIS Installation
+### Step 1: Windows IIS Installation
 
 I installed IIS on my Windows machine via: Control Panel → Programs → Turn Windows features on or off → Internet Information Services
 
@@ -27,7 +27,7 @@ The installation completed successfully, making the server ready for configurati
 
 ---
 
-### Step 2 Verify IIS Installation
+### Step 2: Verify Windows IIS Installation
 
 To verify the installation, I opened a browser and navigated to:Http://localhost
 
@@ -40,7 +40,7 @@ The IIS default welcome page appeared, confirming successful installation.
 
 ---
 
-### Step 3 Server Configuration
+### Step 3: Server Configuration
 
 Using **IIS Manager**, I configured the server as follows:
 
@@ -59,7 +59,7 @@ Using **IIS Manager**, I configured the server as follows:
 
 ---
 
-### Step 4 Verify Server Functionality
+### Step 4: Verify Server Functionality
 
 I tested the server by opening a browser and navigating to:Http://localhost/index.html
 
