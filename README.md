@@ -1,5 +1,7 @@
 # System-Administration-and-IT-Infrastructure-Services-Project
 
+**Practical Task:** Basic Server Setup 
+
 # IIS Web Server Deployment – Windows Environment
 
 ![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?logo=windows)
@@ -8,13 +10,6 @@
 ![Status](https://img.shields.io/badge/Server-Operational-brightgreen)
 ![Project](https://img.shields.io/badge/Project-System%20Administration-orange)
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)
-
----
-
-## Course Information
-**Course:** System Administration and IT Infrastructure Services  
-**Practical Task:** Basic Server Setup  
-**Student:** Nthabiseng Tsunke  
 
 ---
 
