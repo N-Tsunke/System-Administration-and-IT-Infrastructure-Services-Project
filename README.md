@@ -3,6 +3,7 @@
 # Practical Task: Basic Server Setup – Windows IIS
   
 **Task:** Set up a simple local server using Windows IIS, provide screenshots, and explain configured services.
+
 **Key Concepts:** Servers,virtualization,cloud services (DNS,DHCP)   
 
 This project demonstrates the setup of a local **Windows IIS (Internet Information Services)** web server. The purpose is to gain practical experience with server configuration, directory management, and HTTP services. The server hosts a simple test website and includes configuration for logging and optional directory browsing.
