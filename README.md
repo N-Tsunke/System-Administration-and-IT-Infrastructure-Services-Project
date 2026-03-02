@@ -68,7 +68,7 @@ Using **IIS Manager**, I configured the server as follows:
 
 ---
 
-## Testing the Server
+## Step 3: Verify Server Functionality
 
 I tested the server by opening a browser and navigating to:Http://localhost/index.html
 
