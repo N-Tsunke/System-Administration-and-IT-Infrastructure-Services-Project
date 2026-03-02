@@ -4,18 +4,11 @@
   
 **Task:** Set up a simple local server using Windows IIS, provide screenshots, and explain configured services.
 
-**Key Concepts:** Servers,virtualization,cloud services (DNS,DHCP)   
-
-This project demonstrates the setup of a local **Windows IIS (Internet Information Services)** web server. The purpose is to gain practical experience with server configuration, directory management, and HTTP services. The server hosts a simple test website and includes configuration for logging and optional directory browsing.
+**Key Concepts:** Servers,virtualization,cloud services (DNS,DHCP)  
 
 ## Project Overview
 
-This project demonstrates the deployment and configuration of a local web server using Microsoft Internet Information Services (IIS) on a Windows machine.  
-
-**Objectives:**
-- Install and configure IIS web server  
-- Host static HTML content locally  
-- Demonstrate client-server HTTP communication 
+TThis project demonstrates the setup of a local **Windows IIS (Internet Information Services)** web server. The purpose is to gain practical experience with server configuration, directory management, and HTTP services. The server hosts a simple test website and includes configuration for logging and optional directory browsing.
 
 ---
 
