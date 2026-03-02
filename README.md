@@ -27,7 +27,7 @@ This project demonstrates the deployment and configuration of a local web server
 
 ## About IIS
 
-0 (IIS) is a Microsoft web server that hosts websites and web applications. It enables Windows systems to process HTTP/HTTPS requests and deliver web content to browsers.
+(IIS) is a Microsoft web server that hosts websites and web applications. It enables Windows systems to process HTTP/HTTPS requests and deliver web content to browsers.
 
 **Key Features:**
 - Web content hosting (static and dynamic)  
