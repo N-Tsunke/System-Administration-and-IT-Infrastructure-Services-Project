@@ -1,12 +1,11 @@
 # System-Administration-and-IT-Infrastructure-Services-Project
 
-**Practical Task:** Basic Server Setup 
+# Practical Task: Basic Server Setup – Windows IIS
+  
+**Task:** Set up a simple local server using Windows IIS, provide screenshots, and explain configured services.
+**Key Concepts:** Servers,virtualization,cloud services (DNS,DHCP)   
 
-**Key Concepts:** Servers,virtualization,cloud services (DNS,DHCP) 
-
-# IIS Web Server Deployment – Windows Environment
-
----
+This project demonstrates the setup of a local **Windows IIS (Internet Information Services)** web server. The purpose is to gain practical experience with server configuration, directory management, and HTTP services. The server hosts a simple test website and includes configuration for logging and optional directory browsing.
 
 ## Project Overview
 
@@ -15,15 +14,7 @@ This project demonstrates the deployment and configuration of a local web server
 **Objectives:**
 - Install and configure IIS web server  
 - Host static HTML content locally  
-- Demonstrate client-server HTTP communication  
-- Validate directory and service configuration  
-
-# Practical Task: Basic Server Setup – Windows IIS
-
-**Course:** System Administration and IT Infrastructure Services  
-**Task:** Set up a simple local server using Windows IIS, provide screenshots, and explain configured services.
-
-This project demonstrates the setup of a local **Windows IIS (Internet Information Services)** web server. The purpose is to gain practical experience with server configuration, directory management, and HTTP services. The server hosts a simple test website and includes configuration for logging and optional directory browsing.
+- Demonstrate client-server HTTP communication 
 
 ---
 
