@@ -12,8 +12,6 @@ This project demonstrates the setup of a local **Windows IIS (Internet Informati
 
 ### Step 1: Windows IIS Installation
 
-I installed IIS on my Windows machine via: Control Panel → Programs → Turn Windows features on or off → Internet Information Services
-
 During installation, I selected the following components:
 
 - **Web Management Tools**  
