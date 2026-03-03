@@ -1,4 +1,4 @@
-# System-Administration-and-IT-Infrastructure-Services-Project
+⁸# System-Administration-and-IT-Infrastructure-Services-Project
 
 # Practical Task: Basic Server Setup – Windows IIS
 
@@ -26,7 +26,7 @@ The installation completed successfully, making the server ready for configurati
 
 ### Step 2: Verify Windows IIS Installation
 
-To verify the installation, I opened a browser and navigated to C:\inetpub\wwwroot\iisstart.htm
+To verify the installation, I opened a browser and navigated to /website/iisstart.htm
 
 The IIS default welcome page appeared, confirming successful installation.
 
