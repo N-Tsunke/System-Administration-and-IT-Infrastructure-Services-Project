@@ -54,7 +54,7 @@ Using **IIS Manager**, I configured the server as follows:
 
 ### Step 4: Verify Server Functionality
 
-I tested the server by opening a browser and navigating to:Http://localhost/index.html
+I tested the server by opening a browser and navigating to:http://localhost/index.html
 
 
 The test page loaded correctly, confirming that the server is functional.
