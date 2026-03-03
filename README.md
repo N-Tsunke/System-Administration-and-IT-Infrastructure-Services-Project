@@ -60,9 +60,7 @@ I tested the server by opening a browser and navigating to:http://localhost/inde
 The test page loaded correctly, confirming that the server is functional.
 
 **Screenshot 5: Test HTML Page**  
-![Test Page](screenshots/test-page.png)  
-*(Insert screenshot of your test HTML page here)*
-
+<img width="652" height="221" alt="index html" src="https://github.com/user-attachments/assets/677a1909-9eac-45c0-aafb-21afceaec984" />
 ---
 
 ## Services Explanation
