@@ -1,4 +1,4 @@
-⁸# System-Administration-and-IT-Infrastructure-Services-Project
+# System-Administration-and-IT-Infrastructure-Services-Project
 
 # Practical Task: Basic Server Setup – Windows IIS
 
@@ -33,7 +33,6 @@ The IIS default welcome page appeared, confirming successful installation.
 **Screenshot 2: IIS Welcome Page**  
 <img width="1427" height="699" alt="IIS - Localhost" src="https://github.com/user-attachments/assets/c4b9ffa3-87b9-4585-9906-7462cc72f8eb" />
 
-
 ---
 
 ### Step 3: Server Configuration
@@ -58,13 +57,11 @@ Using **IIS Manager**, I configured the server as follows:
 
 I tested the server by opening a browser and navigating to:http://localhost/index.html
 
-
 The test page loaded correctly, confirming that the server is functional.
 
 **Screenshot 5: Test HTML Page**  
 <img width="652" height="221" alt="index html" src="https://github.com/user-attachments/assets/677a1909-9eac-45c0-aafb-21afceaec984" />
 ---
-
 ## Services Explanation
 
 The following services were configured on the server:
