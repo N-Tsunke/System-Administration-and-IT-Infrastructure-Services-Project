@@ -40,7 +40,6 @@ The IIS default welcome page appeared, confirming successful installation.
 
 Using **IIS Manager**, I configured the server as follows:
 
-- **Default Website Path:** `C:\inetpub\wwwroot`  
 - Created a simple test HTML file (`index.html`) with “Hello World” content  
 - Enabled **Directory Browsing** (optional) to allow viewing folder contents  
 - Configured **Logging** to monitor HTTP requests  
@@ -48,6 +47,8 @@ Using **IIS Manager**, I configured the server as follows:
 **Screenshot 3: IIS Manager Interface**  
 <img width="1292" height="618" alt="configure logging" src="https://github.com/user-attachments/assets/cb2b49f7-0e38-46a0-8f2b-c12c14cc0910" />
 
+
+- **Default Website Path:** `C:\inetpub\wwwroot` 
 **Screenshot 4: Website Folder Structure**  
 <img width="764" height="188" alt="Website folder structure" src="https://github.com/user-attachments/assets/a1d93438-3b61-4d91-b22d-67a8c5619d7c" />
 ---
