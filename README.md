@@ -20,7 +20,7 @@ During installation, I selected the following components:
 The installation completed successfully, making the server ready for configuration.
 
 **Screenshot 1: IIS Installation Window**  
-<img width="674" height="486" alt="IIS 3" src="https://github.com/user-attachments/assets/1ff8f08e-4b27-4fa4-9c8b-425cafda5414" />
+<img width="663" height="237" alt="IIS 3" src="https://github.com/user-attachments/assets/6db3cc5c-7514-4991-95bc-6c48b4760251" />
 
 ---
 
