@@ -46,8 +46,7 @@ Using **IIS Manager**, I configured the server as follows:
 - Configured **Logging** to monitor HTTP requests  
 
 **Screenshot 3: IIS Manager Interface**  
-![IIS Manager](screenshots/iis-manager.png)  
-*(Insert screenshot showing Default Website in IIS Manager here)*
+<img width="1292" height="618" alt="configure logging" src="https://github.com/user-attachments/assets/cb2b49f7-0e38-46a0-8f2b-c12c14cc0910" />
 
 **Screenshot 4: Website Folder Structure**  
 ![Folder Structure](screenshots/folder-structure.png)  
