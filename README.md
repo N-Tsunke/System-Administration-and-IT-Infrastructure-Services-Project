@@ -20,8 +20,7 @@ During installation, I selected the following components:
 The installation completed successfully, making the server ready for configuration.
 
 **Screenshot 1: IIS Installation Window**  
-![IIS Installation](screenshots/iis-installation.png)  
-*(Insert screenshot of Windows Features with IIS selected here)*
+<img width="655" height="487" alt="IIS 2" src="https://github.com/user-attachments/assets/1f27a228-754c-4160-a880-96e41577d03a" />
 
 ---
 
@@ -29,12 +28,11 @@ The installation completed successfully, making the server ready for configurati
 
 To verify the installation, I opened a browser and navigated to:Http://localhost
 
-
 The IIS default welcome page appeared, confirming successful installation.
 
 **Screenshot 2: IIS Welcome Page**  
-![IIS Welcome Page](screenshots/iis-welcome.png)  
-*(Insert screenshot of default IIS page here)*
+<img width="1427" height="699" alt="IIS - Localhost" src="https://github.com/user-attachments/assets/c4b9ffa3-87b9-4585-9906-7462cc72f8eb" />
+
 
 ---
 
