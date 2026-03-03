@@ -49,9 +49,7 @@ Using **IIS Manager**, I configured the server as follows:
 <img width="1292" height="618" alt="configure logging" src="https://github.com/user-attachments/assets/cb2b49f7-0e38-46a0-8f2b-c12c14cc0910" />
 
 **Screenshot 4: Website Folder Structure**  
-![Folder Structure](screenshots/folder-structure.png)  
-*(Insert screenshot of `C:\inetpub\wwwroot` showing `index.html` file here)*
-
+<img width="852" height="211" alt="Website folder structure" src="https://github.com/user-attachments/assets/2493f704-20aa-426e-a694-a7d8d5598619" />
 ---
 
 ### Step 4: Verify Server Functionality
