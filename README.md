@@ -51,7 +51,7 @@ Using **IIS Manager**, I configured the server as follows:
 - **Enabled Directory Browsing:**
 <img width="1296" height="322" alt="ENABLE DIRECTORY BROWSING" src="https://github.com/user-attachments/assets/258ba3e3-a52c-4f6f-9470-a49be520bb2e" />
 
-- **Logging**
+- **Logging:**
 <img width="1292" height="618" alt="configure logging" src="https://github.com/user-attachments/assets/cb2b49f7-0e38-46a0-8f2b-c12c14cc0910" />
   
 **Screenshot 4: Website Folder Structure**  
@@ -81,5 +81,4 @@ The following services were configured on the server:
 ---
 
 ## Summary
-
-I successfully set up a local IIS web server on Windows. IIS handles HTTP requests and serves files from `C:\inetpub\wwwroot`. The server is capable of hosting web content locally and monitoring traffic through logging. Optional features like directory browsing can be enabled for easier management. This exercise provides hands-on experience with fundamental server configuration and system administration tasks.  
+I installed Windows IIS to set up a local web server. The default website points to C:\inetpub\wwwroot, where I placed a test index.html file. I enabled Directory Browsing to allow folder viewing and Logging to track HTTP requests. This setup demonstrates the core server functionality, and the page is accessible via http://localhost
