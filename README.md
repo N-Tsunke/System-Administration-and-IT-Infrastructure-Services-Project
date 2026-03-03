@@ -81,4 +81,4 @@ The following services were configured on the server:
 ---
 
 ## Summary
-I installed Windows IIS to set up a local web server. The default website points to C:\inetpub\wwwroot, where I placed a test index.html file. I enabled Directory Browsing to allow folder viewing and Logging to track HTTP requests. This setup demonstrates the core server functionality, and the page is accessible via http://localhost
+I installed Windows IIS to set up a local web server. The default website points to `C:\inetpub\wwwroot`, where I placed a test index.html file. I enabled Directory Browsing to allow folder viewing and Logging to track HTTP requests. This setup demonstrates the core server functionality, and the page is accessible via http://localhost
