@@ -43,9 +43,13 @@ Using **IIS Manager**, I configured the server as follows:
 - Enabled **Directory Browsing** (optional) to allow viewing folder contents  
 - Configured **Logging** to monitor HTTP requests  
 
-**Screenshot 3: IIS Manager Interface**  
-<img width="1292" height="618" alt="configure logging" src="https://github.com/user-attachments/assets/cb2b49f7-0e38-46a0-8f2b-c12c14cc0910" />
+**Screenshot 3: IIS Manager Interface** 
 
+<img width="542" height="235" alt="html file" src="https://github.com/user-attachments/assets/738c9590-678d-4916-a356-3ce4fac04fb9" />
+
+<img width="1296" height="322" alt="ENABLE DIRECTORY BROWSING" src="https://github.com/user-attachments/assets/258ba3e3-a52c-4f6f-9470-a49be520bb2e" />
+
+<img width="1292" height="618" alt="configure logging" src="https://github.com/user-attachments/assets/cb2b49f7-0e38-46a0-8f2b-c12c14cc0910" />
 
 - **Default Website Path:** `C:\inetpub\wwwroot`
   
