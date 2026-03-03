@@ -48,9 +48,10 @@ Using **IIS Manager**, I configured the server as follows:
 <img width="1292" height="618" alt="configure logging" src="https://github.com/user-attachments/assets/cb2b49f7-0e38-46a0-8f2b-c12c14cc0910" />
 
 
-- **Default Website Path:** `C:\inetpub\wwwroot` 
+- **Default Website Path:** `C:\inetpub\wwwroot`
+  
 **Screenshot 4: Website Folder Structure**  
-<img width="764" height="188" alt="Website folder structure" src="https://github.com/user-attachments/assets/a1d93438-3b61-4d91-b22d-67a8c5619d7c" />
+<img width="736" height="175" alt="Website folder structure" src="https://github.com/user-attachments/assets/752d11f4-838f-4c7e-b39e-a87a33d96680" />
 ---
 
 ### Step 4: Verify Server Functionality
