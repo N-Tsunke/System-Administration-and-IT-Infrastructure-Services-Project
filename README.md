@@ -49,7 +49,7 @@ Using **IIS Manager**, I configured the server as follows:
 <img width="1292" height="618" alt="configure logging" src="https://github.com/user-attachments/assets/cb2b49f7-0e38-46a0-8f2b-c12c14cc0910" />
 
 **Screenshot 4: Website Folder Structure**  
-<<img width="881" height="188" alt="Website folder structure" src="https://github.com/user-attachments/assets/5e10bb9b-31ff-4c46-a239-3951d0d2287a" />
+<img width="764" height="188" alt="Website folder structure" src="https://github.com/user-attachments/assets/a1d93438-3b61-4d91-b22d-67a8c5619d7c" />
 ---
 
 ### Step 4: Verify Server Functionality
